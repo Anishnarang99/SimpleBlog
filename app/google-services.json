@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066559839099",
+    "firebase_url": "https://simpleblog-b5930.firebaseio.com",
+    "project_id": "simpleblog-b5930",
+    "storage_bucket": "simpleblog-b5930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066559839099:android:fa11539936ac70ee",
+        "android_client_info": {
+          "package_name": "com.pencilbox.simpleblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066559839099-fe8g5b4k3nd1s7kkfol065t9uab8l8cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pencilbox.simpleblog",
+            "certificate_hash": "b37965f35b83475ecf4cc8009e701c8d8ff2b2da"
+          }
+        },
+        {
+          "client_id": "1066559839099-3s7ut0d22m9di8nfsikcs8qb49phl7tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgs_gkDp5OkBlwL2sgW2VjJzSAJgnj49k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066559839099-3s7ut0d22m9di8nfsikcs8qb49phl7tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
